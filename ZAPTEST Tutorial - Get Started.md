@@ -26,6 +26,21 @@ Now you are ready to automating.
 This account is also useful in getting ZAPTEST Documentation and Forum.
 
 
+# Opening ZAPTEST
+
+On the main portal LogIn.
+
+it will take you to forum.you can also go to forum using User Zone menu.
+
+There are 2 main sections.
+
+1. Best Practices- best practices for using ZAPTEST
+2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
+
+
+
+
+
 
 
 
