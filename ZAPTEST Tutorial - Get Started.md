@@ -10,4 +10,7 @@ There are two ways to install it.
 ## Using a Web Installer
 
 Click on the Download button from the home page/Free Edition link.
+When Installation is complete, Click on Launch ZAPTEST.
+Then on ZAPTEST Free Edition button.
+
 
