@@ -56,6 +56,19 @@ btw- you need to know JavaScript and  for coders.
 
 Now, let us start learning the ZAPTEST Tool by using UI Script-Less approach. Let us follow the above tutiors.
 
+## UI Script-Less Tutorials
+
+1.Getting Started4:38
+2.Building First Script [SL] 7:37
+3.Using Mockups [SL] 6:22
+4.Lists and Tables [SL] 7:42
+5.Image and Area Objects 7:44
+6.Configuring Mobile Devices6:05
+7.iPhone and Android 9:47
+8.DOC Tutorial2:50
+9.M-RUN Tutorial15:09
+10. Recover Tutorial
+
 
 
 
