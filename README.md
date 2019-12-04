@@ -12,6 +12,10 @@ https://www.youtube.com/channel/UC1620TseFttkFo0vSZlB8yA
 
 https://www.zaptest.com/blog
 
+## Documentation
+
+https://www.zaptest.com/user-zone/product-training
+
 
 
 
