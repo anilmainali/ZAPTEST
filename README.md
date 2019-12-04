@@ -27,8 +27,11 @@ https://www.zaptest.com/about
 They boast about any Application | any Schedule | any Skill concept.
 
 
-# ZAPTEST Beginner Tutorial
+
+Now how to get started with this fantastic Tool.
+
+# Getting Started
+
+## ZAPTEST Beginner Tutorial
 
 https://www.zaptest.com/tutorial
-
-
