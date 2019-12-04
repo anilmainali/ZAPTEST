@@ -20,10 +20,11 @@ https://www.zaptest.com/user-zone/product-training
 
 https://www.zaptest.com/webinars/upcoming
 
+## About ZAPTEST
 
+https://www.zaptest.com/about
 
-
-
+They boast about any Application | any Schedule | any Skill concept.
 
 
 # ZAPTEST Beginner Tutorial
