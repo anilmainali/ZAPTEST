@@ -17,6 +17,16 @@ Then on ZAPTEST Free Edition button.
 
 Fill in the Free Sign Up form and click on Get Started Button.
 
+Check your email for Activation Link.Click on Confirm your Email link and your Account will be activated.
+
+Login to ZAPTEST
+
+Now you are ready to automating.
+
+This account is also useful in getting ZAPTEST Documentation and Forum.
+
+
+
 
 
 
