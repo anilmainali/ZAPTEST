@@ -46,15 +46,13 @@ This has been catogarized in 5 different below topics.
 4. API Script-Less
 5. LOAD
 
+Since I am not comfortable with coding and was always hesitant to learn about automation, I had an assumption that we need to be a master in coding to start my career in automation.
 
-Since I am not comfortable with coding and was always hesitent to learn about automation. I had an assumption that we need to be master in coding inorder to start the career in automation.
+Finally, ZAPTEST proved it wrong, and they have introduced a tool for everyone. Anybody can do automation provided you have coding experience or not. For the coders, they have UI Scripted, and for non-coders, they have UI Script-Less.
 
-Finally, ZAPTEST proved it wrong and they have introduced a tool for everyone.Anybody can do automation provided you have coding experience or not. For the coders they have UI Scripted and for non coders they have UI Script-Less.
+Btw- you need to know JavaScript and for coders.
 
-btw- you need to know JavaScript and  for coders.
-
-
-Now, let us start learning the ZAPTEST Tool by using UI Script-Less approach. Let us follow the above tutiors.
+Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach. Let us follow the above tutorials.
 
 ## UI Script-Less Tutorials
 
