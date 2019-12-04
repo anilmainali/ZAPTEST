@@ -15,4 +15,10 @@ When Installation is complete, Click on Launch ZAPTEST.
 
 Then on ZAPTEST Free Edition button.
 
+Fill in the Free Sign Up form and click on Get Started Button.
+
+
+
+
+
 
