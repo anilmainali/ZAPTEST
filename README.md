@@ -56,24 +56,15 @@ Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach
 
 ## UI Script-Less Tutorials
 
-1.Getting Started
-
-2.Building First Script
-
-3.Using Mockups
-
-4.Lists and Tables
-
-5.Image and Area Objects
-
-6.Configuring Mobile Devices 
-
-7.iPhone and Android
-
-8.DOC Tutorial
-
-9.M-RUN Tutorial
-
+1. Getting Started
+2. Building First Script
+3. Using Mockups
+4. Lists and Tables
+5. Image and Area Objects
+6. Configuring Mobile Devices 
+7. iPhone and Android
+8. DOC Tutorial
+9. M-RUN Tutorial
 10. Recover Tutorial
 
 
