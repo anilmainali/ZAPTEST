@@ -47,5 +47,19 @@ It is sometimes difficult to determine a winner when facing a number of choices 
 
 Many of the criteria above can be quantified using the same range, such as, from 0 (none) to 10 (highest). For criteria with a definitive value “No” or “Yes”, using 0 for “No” and 10 for “Yes”.
 
+You can create a table using these points:
+
+1. Open source
+2. Platform
+3. AUT programming languages
+4. Scripting languages
+5. Support	
+6. Usability
+7. Script maintainability	
+8. Required programming skills
+9. Automated testing approaches
+10. Cost
+
+
 
 
