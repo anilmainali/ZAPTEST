@@ -39,6 +39,10 @@ There are 2 main sections.
 
 
 
+# How to Scan Applications with GUI Map
+
+[How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
+
 
 
 
