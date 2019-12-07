@@ -1,28 +1,19 @@
 # ZAPTEST
 
-## Official site for ZAPTEST :
+[Official site for ZAPTEST](https://www.zaptest.com/)
 
-https://www.zaptest.com/
+[You Tube Channel](https://www.youtube.com/channel/UC1620TseFttkFo0vSZlB8yA)
 
-## You Tube Channel:
+[Blog](https://www.zaptest.com/blog)
 
-https://www.youtube.com/channel/UC1620TseFttkFo0vSZlB8yA
+[Documentation]
 
-## Blog
+(https://www.zaptest.com/user-zone/product-training)
 
-https://www.zaptest.com/blog
+[Webinars](https://www.zaptest.com/webinars/upcoming)
 
-## Documentation
+[About ZAPTEST](https://www.zaptest.com/about)
 
-https://www.zaptest.com/user-zone/product-training
-
-## Webinars
-
-https://www.zaptest.com/webinars/upcoming
-
-## About ZAPTEST
-
-https://www.zaptest.com/about
 
 They boast about any Application | any Schedule | any Skill concept.
 
