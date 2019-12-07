@@ -48,8 +48,9 @@ More Detail Tutorial from the Product Training Videos.
 
 
 
+# Terminologies:
 
-
+OCR
 
 
 
