@@ -62,4 +62,56 @@ You can create a table using these points:
 
 
 
+# ZAPTEST EVALUATION
 
+## Evaluation Criteria
+
+1. Test case management capabilities
+2. Object recognition capabilities
+3. Recording capabilities across browsers
+4. Platforms (OS support)
+4. Cross browser playback
+5. Parallel execution (Multiple Suites)
+6. Run suites across cloud
+7. Run suites across secure environments
+8. Headless test execution support
+9. Scripting language dependency
+10. Debugging capabilities
+11. Test data integration capabilities
+12. Crash & recovery capabilities
+13. Operational performance 
+14. Technical support
+15. Depth of help contents (Internal)
+16. Depth of help contents (External)
+17. Localization support
+18. Integration with CI/CD tools (Jenkins)
+19. Reports - Email
+20. Reports - PDF
+21. Reports - Jira Integration
+22. Reports - Slack Integration
+23. Dashboard with analytics
+
+24. Advantages over Selenium ?
+25. Support data-driven testing ?
+26. Support keyword-driven testing ?
+27. Support model based testing ?
+28. Difference between free and paid versions ?
+29. Support  Record/ playback
+30. Performance testing support
+31. Stress testing support
+32. Others
+33. Ease of installation
+34. Ease of use
+35. Time to find online help tips
+36. Ease of scripting and reporting
+
+37. Open source ?
+38. Platform dependency ?
+39. AUT programming languages
+40, Scripting languages
+41. Support
+42. Usability
+43. Script maintainability
+44. Level of programming expertise required (0-10) ?
+45. Testing approaches
+46. Pricing
