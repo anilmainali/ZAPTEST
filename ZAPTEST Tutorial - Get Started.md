@@ -37,17 +37,22 @@ There are 2 main sections.
 1. Best Practices- best practices for using ZAPTEST
 2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
 
-## Tutorial on GUI Map Options
 
-- [GUI Map Options](https://www.zaptest.com/user-zone/product-training/zaptest/options/gui-map-options)
+
+## All Tutorial on GUI Map
+
+1. [How to Scan Applications with GUI Map] (https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
+2. [GUI Map Controls Overview](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-controls-overview)
+3. [GUI Map Debug Mode](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-debug-mode)
+4. GUI Map Object Highlighting](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-object-highlighting-how-to)
+5. [GUI Map Recalculate Position of OCR Objects](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-recalculate-position-of-ocr-objects)
+6. [GUI Map Options](https://www.zaptest.com/user-zone/product-training/zaptest/options/gui-map-options)
+
 
 # Product Training Videos
 
 [Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
 
-More Detail Tutorial from the Product Training Videos.
-
-- [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
 
 
 
