@@ -37,7 +37,11 @@ There are 2 main sections.
 1. Best Practices- best practices for using ZAPTEST
 2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
 
+# Product Training Videos
 
+[Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
+
+More Detail Tutorial from the Product Training Videos.
 
 - [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
 
