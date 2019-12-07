@@ -41,7 +41,7 @@ There are 2 main sections.
 
 ## All Tutorial on GUI Map
 
-1. [How to Scan Applications with GUI Map] (https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
+1. [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
 2. [GUI Map Controls Overview](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-controls-overview)
 3. [GUI Map Debug Mode](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-debug-mode)
 4. GUI Map Object Highlighting](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-object-highlighting-how-to)
