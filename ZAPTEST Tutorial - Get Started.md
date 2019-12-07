@@ -39,7 +39,13 @@ There are 2 main sections.
 
 
 
-## All Tutorial on GUI Map
+# Tutorials
+
+## Product Training Videos
+
+[Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
+
+## Collection of Tutorials on GUI Map
 
 1. [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
 2. [GUI Map Controls Overview](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-controls-overview)
@@ -48,10 +54,13 @@ There are 2 main sections.
 5. [GUI Map Recalculate Position of OCR Objects](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-recalculate-position-of-ocr-objects)
 6. [GUI Map Options](https://www.zaptest.com/user-zone/product-training/zaptest/options/gui-map-options)
 
+# Collection of Tutorials on Mobile Configuration
 
-# Product Training Videos
+1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
+2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
-[Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
+
+
 
 
 
