@@ -59,4 +59,4 @@ Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach
 10. [Recover Tutorial](https://www.zaptest.com/tutorial/recorder)
 
 
-[Demo Site](http://demo.zaptest.com/)
+Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptest.com/)
