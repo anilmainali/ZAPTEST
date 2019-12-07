@@ -25,9 +25,7 @@ Now how to get started with this fantastic Tool.
 
 ## ZAPTEST Beginner Tutorial
 
-Start with this series Lessons 
-
-https://www.zaptest.com/tutorial
+[Start with this series Lessons- Beginner Tutorial](https://www.zaptest.com/tutorial)
 
 This has been catogarized in 5 different below topics.
 
