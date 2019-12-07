@@ -37,6 +37,10 @@ There are 2 main sections.
 1. Best Practices- best practices for using ZAPTEST
 2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
 
+## Tutorial on GUI Map Options
+
+- [GUI Map Options](https://www.zaptest.com/user-zone/product-training/zaptest/options/gui-map-options)
+
 # Product Training Videos
 
 [Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
