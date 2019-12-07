@@ -6,9 +6,7 @@
 
 [Blog](https://www.zaptest.com/blog)
 
-[Documentation]
-
-(https://www.zaptest.com/user-zone/product-training)
+[Documentation](https://www.zaptest.com/user-zone/product-training)
 
 [Webinars](https://www.zaptest.com/webinars/upcoming)
 
@@ -59,6 +57,4 @@ Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach
 10. [Recover Tutorial](https://www.zaptest.com/tutorial/recorder)
 
 
-# Demo Site
-
-http://demo.zaptest.com/
+# [Demo Site](http://demo.zaptest.com/)
