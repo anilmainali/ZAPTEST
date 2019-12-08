@@ -4,7 +4,4 @@
 
 # QA MENOR ZAPTEST TOOL EVALUATION
 
-
-
-
-
+Evaluating the ZAPTEST Tool for QA Mentor Project use for Companies.
