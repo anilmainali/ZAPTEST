@@ -115,6 +115,15 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 
 [Access to Media Videos](https://www.zaptest.com/product-media)
 
+
+## Collection of Tutorials on DOC
+[Doc Tutorial](https://www.zaptest.com/tutorial/doc)
+[ZAPTEST Tutorial - DOC Feature](https://www.youtube.com/watch?v=7hVfZUPJIA8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=7)
+
+## Collection of Tutorials on Recorder Tutorial
+[Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
+[ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
+
 ## Collection of Tutorials on Load Testing
 
 1. [Building First Load Test](https://www.zaptest.com/tutorial/building-first-load-test)
