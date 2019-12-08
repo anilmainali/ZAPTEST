@@ -87,6 +87,9 @@ Hybrid: supporting two or more of the above. Most of existing tools provide this
 ```
 Cost is an important factor in deciding which tool to use. You have to take into account both licensing and support costs. Some tools require no or nominal cost to acquire, but they incur a large sum of money spent to call for external support. Additional cost comes from training and spending extra effort for understanding and solving problems related to the tool.
 ```
+# Points to be added on the list
+
+- Shift-Left
 
 # Resources
 
