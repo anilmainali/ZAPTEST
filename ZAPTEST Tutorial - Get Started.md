@@ -144,6 +144,11 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
+# Collection of Workshop series on You Tube
+
+[Workshop](https://www.youtube.com/playlist?list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH)
+
+
 # Terminologies:
 
 OCR
