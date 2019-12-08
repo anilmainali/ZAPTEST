@@ -95,7 +95,7 @@ Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach
 7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
 8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
 9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
-10. [Recover Tutorial](https://www.zaptest.com/tutorial/recorder)
+10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
 
 
 Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptest.com/)
