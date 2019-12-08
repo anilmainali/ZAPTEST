@@ -115,6 +115,12 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 
 [Access to Media Videos](https://www.zaptest.com/product-media)
 
+## Collection of Tutorials on Load Testing
+
+1. [Building First Load Test](https://www.zaptest.com/tutorial/building-first-load-test)
+2. [ZAPTEST - LOAD Module Promo](https://www.youtube.com/watch?v=pTHIl4SM6zo)
+
+
 ## Collection of Tutorials on GUI Map
 
 1. [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
