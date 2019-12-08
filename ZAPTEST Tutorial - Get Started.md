@@ -145,10 +145,10 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
 # All You Tube Vidios
-# You Tube Tutorials Series - 10 Videos
+## You Tube Tutorials Series - 10 Videos
 [Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
 
-## Watch the above tutorials by your preferences Topic
+### Watch the above tutorials by your preferences Topic
 
 1. [ZAPTEST Tutorial - Get Started](https://www.youtube.com/watch?v=WzlW4HrrZoY&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2&t=0s)
 
@@ -171,16 +171,31 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 10. [ZAPTEST Tutorial - Configuring Mobile Devices](https://www.youtube.com/watch?v=meLjzeTrbc0&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=10)
 
 
-# You Tube Collection of Workshop series - 21 Videos
+## You Tube Collection of Workshop series - 21 Videos
 [Workshop](https://www.youtube.com/playlist?list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH)
 
-## Watch the above Workshop series by your preferred Topic.
-
-
-
-
-
-
+### Watch the above Workshop series by your preferred Topic.
+[ZAPTEST - 01 - Workshop - Introduction](https://www.youtube.com/watch?v=VdtibqBg_4A&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=1)
+[ZAPTEST - 02 - Workshop - Test Optimization Leaders](https://www.youtube.com/watch?v=oTXRnCjLuVo&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=2)
+[ZAPTEST - 03 - Workshop - Cross Platform Test Automation](https://www.youtube.com/watch?v=6tVxL1U0Hs4&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=3)
+[ZAPTEST - 04 - Workshop - Free And Enterprise Edition](https://www.youtube.com/watch?v=ifv907DzGzw&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=4)
+[ZAPTEST - 05 - Workshop - Cross Platform Testing](https://www.youtube.com/watch?v=kKLfeTx3Of0&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=5)
+[ZAPTEST - 06 - Workshop - Early Test Automation](https://www.youtube.com/watch?v=HyR3KFdkTC0&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=6)
+[ZAPTEST - 07 - Workshop - Process](https://www.youtube.com/watch?v=3-tfhAWgaXY&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=7)
+[ZAPTEST - 08 - Workshop - Team Collaboration](https://www.youtube.com/watch?v=b8tVBcmhWxM&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=8)
+[ZAPTEST - 09 - Workshop - Test Automation Approaches](https://www.youtube.com/watch?v=xaeFvvH51A4&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=9)
+[ZAPTEST - 10 - Workshop - 1Script](https://www.youtube.com/watch?v=COt8Y1MuAyo&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=10)
+[ZAPTEST - 11 - Workshop - DOC](https://www.youtube.com/watch?v=Gv4fd_kw0mg&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=11)
+[ZAPTEST - 12 - Workshop - M-RUN](https://www.youtube.com/watch?v=D8VciWJmu6U&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=12)
+[ZAPTEST - 13 - Workshop - FARM](https://www.youtube.com/watch?v=X7oxcEwl13Q&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=13)
+[ZAPTEST - 14 - Workshop - API](https://www.youtube.com/watch?v=wtZGymcA8xY&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=14)
+[ZAPTEST - 15 - Workshop - The Game Changer](https://www.youtube.com/watch?v=yPwBm82GvpE&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=15)
+[ZAPTEST - 16 - Workshop - Test Automation Best Practices](https://www.youtube.com/watch?v=ZOtZorJADyw&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=16)
+[ZAPTEST - 17 - Workshop - Test Automation Script Design Principals](https://www.youtube.com/watch?v=ubbA83Qc52s&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=17)
+[ZAPTEST - 18 - Workshop - Modularity](https://www.youtube.com/watch?v=7f4GpmFy4Mc&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=18)
+[ZAPTEST - 19 - Workshop - Event Driving](https://www.youtube.com/watch?v=7lvnsQ0cAH8&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=19)
+[ZAPTEST - 20 - Workshop - Data Driving](https://www.youtube.com/watch?v=Uvwilb0Igrk&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=20)
+[ZAPTEST - 21 - Workshop - Rich Logic](https://www.youtube.com/watch?v=9-e75yjCYfI&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=21)
 
 # Terminologies:
 
