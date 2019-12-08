@@ -41,6 +41,10 @@ There are 2 main sections.
 
 # Tutorials
 
+1. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g)
+2. [Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
+3. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI)
+
 ## Product Training Videos
 
 [Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
@@ -58,13 +62,6 @@ There are 2 main sections.
 
 1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
-
-
-
-
-
-
-
 
 # Terminologies:
 
