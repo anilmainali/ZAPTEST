@@ -144,9 +144,42 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
-# Collection of Workshop series on You Tube
+# All You Tube Vidios
+# You Tube Tutorials Series - 10 Videos
+[Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
 
+## Watch the above tutorials by your preferences Topic
+
+1. [ZAPTEST Tutorial - Get Started](https://www.youtube.com/watch?v=WzlW4HrrZoY&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2&t=0s)
+
+2. [ZAPTEST Tutorial - Building First Script](https://www.youtube.com/watch?v=vnzqvrqOU-c&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2)
+
+3. [ZAPTEST Tutorial - Mockups](https://www.youtube.com/watch?v=fMJ5DCZ1X68&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=3)
+
+4. [ZAPTEST Tutorial - Lists and Tables](https://www.youtube.com/watch?v=crBQQs9mC8A&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=4)
+
+5. [ZAPTEST Tutorial - Image and Area Objects](https://www.youtube.com/watch?v=GgtafJBGMU8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=5)
+
+6. [ZAPTEST Tutorial - Cross Platform](https://www.youtube.com/watch?v=SsmjoA8_PdM&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=6)
+
+7. [ZAPTEST Tutorial - DOC Feature](https://www.youtube.com/watch?v=7hVfZUPJIA8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=7)
+
+8. [ZAPTEST Tutorial - M-RUN Feature](https://www.youtube.com/watch?v=1HbFFkVzs14&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=8)
+
+9. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
+
+10. [ZAPTEST Tutorial - Configuring Mobile Devices](https://www.youtube.com/watch?v=meLjzeTrbc0&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=10)
+
+
+# You Tube Collection of Workshop series - 21 Videos
 [Workshop](https://www.youtube.com/playlist?list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH)
+
+## Watch the above Workshop series by your preferred Topic.
+
+
+
+
+
 
 
 # Terminologies:
