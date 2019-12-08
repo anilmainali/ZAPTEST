@@ -1,7 +1,7 @@
 
 
 
-# QA MENOR ZAPTEST TOOL EVALUATION
+# QA MENOR ZAPTEST TOOL EVALUATION  ![logo_QAMENTOR](https://user-images.githubusercontent.com/10678180/70382697-5a701280-1925-11ea-882f-33127f1209ff.png)
 
 ## Evaluation Criteria
 
