@@ -1,5 +1,5 @@
 
-<img width="256" alt="zaptest_logo" src="https://user-images.githubusercontent.com/10678180/70380328-e884d280-18fe-11ea-8705-d6608bfb82f1.png">
+<img width="256" alt="zaptest_logo" src="https://user-images.githubusercontent.com/10678180/70380328-e884d280-18fe-11ea-8705-d6608bfb82f1.png">  <img width="378" alt="2019-12-07_2022" src="https://user-images.githubusercontent.com/10678180/70383197-6e207680-192f-11ea-88fc-ab6045b3fc89.png">
 
 
 - [Official site for ZAPTEST](https://www.zaptest.com/)
