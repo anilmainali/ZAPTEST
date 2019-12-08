@@ -2,17 +2,18 @@
 <img width="256" alt="zaptest_logo" src="https://user-images.githubusercontent.com/10678180/70380328-e884d280-18fe-11ea-8705-d6608bfb82f1.png">
 
 - [Official site for ZAPTEST](https://www.zaptest.com/)
+- [About ZAPTEST](https://www.zaptest.com/about)
+- [Company Blog](https://www.zaptest.com/blog)
+
+# Social Media
 
 - [You Tube Channel](https://www.youtube.com/channel/UC1620TseFttkFo0vSZlB8yA)
+- [LinkedIn](https://www.linkedin.com/company/zaptechnologies-com/about/)
+- [Twitter](https://twitter.com/ZAPtechnologies)
 
-- [Blog](https://www.zaptest.com/blog)
-
-- [Documentation](https://www.zaptest.com/user-zone/product-training)
+# For Upcoming webinars check out below link.
 
 - [Webinars](https://www.zaptest.com/webinars/upcoming)
-
-- [About ZAPTEST](https://www.zaptest.com/about)
-
 
 They boast about any Application | any Schedule | any Skill concept.
 
@@ -78,6 +79,11 @@ Btw- you need to know JavaScript and for coders.
 
 Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach. Let us follow the above tutorials.
 
+
+- [Blog](https://www.zaptest.com/blog)
+
+- [Documentation](https://www.zaptest.com/user-zone/product-training)
+
 ## UI Script-Less Tutorials
 
 1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
@@ -99,6 +105,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 1. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g)
 2. [Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
 3. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI)
+4. [Documentation](https://www.zaptest.com/user-zone/product-training)
 
 ## Product Training Videos
 
