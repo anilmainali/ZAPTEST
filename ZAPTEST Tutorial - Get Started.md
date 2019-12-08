@@ -148,7 +148,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 ## You Tube Tutorials Series - 10 Videos
 [Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
 
-### Watch the above tutorials by your preferences Topic
+### Watch the above tutorials by your preferences Topic <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 
 1. [ZAPTEST Tutorial - Get Started](https://www.youtube.com/watch?v=WzlW4HrrZoY&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2&t=0s)
 
@@ -171,10 +171,10 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 10. [ZAPTEST Tutorial - Configuring Mobile Devices](https://www.youtube.com/watch?v=meLjzeTrbc0&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=10)
 
 
-## You Tube Collection of Workshop series - 21 Videos
+## You Tube Collection of Workshop series - 21 Videos <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 [Workshop](https://www.youtube.com/playlist?list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH)
 
-### Watch the above Workshop series by your preferred Topic.
+### Watch the above Workshop series by your preferred Topic. <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 1. [ZAPTEST - 01 - Workshop - Introduction](https://www.youtube.com/watch?v=VdtibqBg_4A&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=1)
 2. [ZAPTEST - 02 - Workshop - Test Optimization Leaders](https://www.youtube.com/watch?v=oTXRnCjLuVo&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=2)
 3. [ZAPTEST - 03 - Workshop - Cross Platform Test Automation](https://www.youtube.com/watch?v=6tVxL1U0Hs4&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=3)
