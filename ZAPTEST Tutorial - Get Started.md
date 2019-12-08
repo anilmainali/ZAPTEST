@@ -144,7 +144,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
-# All You Tube Vidios ![youtube-logo](https://user-images.githubusercontent.com/10678180/70384836-78506e00-194b-11ea-811e-307cae11bf13.jpg)
+# All You Tube Vidios <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 ## You Tube Tutorials Series - 10 Videos
 [Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
 
