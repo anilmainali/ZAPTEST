@@ -96,3 +96,16 @@ Cost is an important factor in deciding which tool to use. You have to take into
 ## A Structured Evaluation for Selecting a Right Automated Testing Tool
 
 https://www.katalon.com/resources-center/blog/a-structured-evaluation-for-selecting-a-right-automated-testing-tool/
+
+
+# Meeting Questions
+
+## Recorder
+Want to know if recorder can replay as a suite or we need to first create a GUI or Coding steps then we can only run.
+For example we can record and replay directly without modifying.
+
+## Performance or Load Test
+Did not see record and replay feature like in LoadRunner and JMeter. Only saw for API Testing.
+Will the Load module will only support API Testing?
+
+
