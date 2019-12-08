@@ -1,6 +1,7 @@
 
 <img width="256" alt="zaptest_logo" src="https://user-images.githubusercontent.com/10678180/70380328-e884d280-18fe-11ea-8705-d6608bfb82f1.png">
 
+
 - [Official site for ZAPTEST](https://www.zaptest.com/)
 - [About ZAPTEST](https://www.zaptest.com/about)
 - [Company Blog](https://www.zaptest.com/blog)
@@ -15,7 +16,6 @@
 
 - [Webinars](https://www.zaptest.com/webinars/upcoming)
 
-They boast about any Application | any Schedule | any Skill concept.
 
 # Creating a Free Edition Account
 
