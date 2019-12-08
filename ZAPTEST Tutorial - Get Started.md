@@ -3,9 +3,7 @@
 
 
 - [Official site for ZAPTEST](https://www.zaptest.com/)
-
-<img width="378" alt="2019-12-07_2022" src="https://user-images.githubusercontent.com/10678180/70383197-6e207680-192f-11ea-88fc-ab6045b3fc89.png"> [Click Here To Know About ZAPTEST](https://www.zaptest.com/about)
-
+- [About ZAPTEST](https://www.zaptest.com/about)
 - [Company Blog](https://www.zaptest.com/blog)
 
 # Social Media
