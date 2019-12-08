@@ -37,8 +37,6 @@ There are 2 main sections.
 1. Best Practices- best practices for using ZAPTEST
 2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
 
-
-
 # Tutorials
 
 1. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g)
@@ -48,6 +46,10 @@ There are 2 main sections.
 ## Product Training Videos
 
 [Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
+
+## Media Vidios Collections:
+
+[Access to Media Videos](https://www.zaptest.com/product-media)
 
 ## Collection of Tutorials on GUI Map
 
@@ -67,5 +69,15 @@ There are 2 main sections.
 
 OCR
 
+# Resources
+
+# Reviews and Comparisions from Different Vendors
+
+## ZAPTEST Reviews for Software Test Automation - Gartner
+
+https://www.gartner.com/reviews/market/software-test-automation/vendor/zaptest/product/zaptest/review/view/743276
 
 
+## Compare Selenium vs. ZAPTEST in Software Test Automation ...
+
+https://www.gartner.com/reviews/market/software-test-automation/compare/selenium-vs-zaptest
