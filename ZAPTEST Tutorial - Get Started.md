@@ -160,6 +160,40 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 ## You Tube Collection of Media Series - 31 Videos
 [Media Series](https://www.youtube.com/watch?v=27Z9OEba9TI&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy)
 
+### Watch the above Media Series by your preferred Topic.
+
+1. [ZAPTEST - ZAPFARM Promo](https://www.youtube.com/watch?v=27Z9OEba9TI&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=1)
+2. [ZAPTEST UI + API Test Automation](https://www.youtube.com/watch?v=jVGC3XgwDbY&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=2)
+3. ZAPTEST - G-Mode Promo](https://www.youtube.com/watch?v=2jhy7SY1h4Q&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=3)
+4. [600% Productivity Increase](https://www.youtube.com/watch?v=o91DflCoels&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=4)
+5. [ZAPDOC - 1 Script / 1 Click](https://www.youtube.com/watch?v=E4r792vWWW0&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=5)
+6. [ZAPTEST - Workshop](https://www.youtube.com/watch?v=M3p0zo3CVKE&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=6)
+7. [BDD Testing with ZAPTEST vs Cucumber/Selenium](https://www.youtube.com/watch?v=R_sq5Umh0Ik&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=7)
+8. [ZAPTEST - JIRA Integration](https://www.youtube.com/watch?v=13xCi1lM69Q&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=8)
+9. [ZAPTEST Rally Integration](https://www.youtube.com/watch?v=HzIUeiIU-64&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=9)
+10. [ZAPTEST HP ALM Integration](https://www.youtube.com/watch?v=AzUns5J7EyM&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=10)
+11. [ZAPTEST - TFS Integration](https://www.youtube.com/watch?v=7VK62n0e1Yg&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=11)
+12. [ZAPTEST - POS Promo](https://www.youtube.com/watch?v=-X1AahN_OAs&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=12)
+13. [ZAPTEST - Multilingual](https://www.youtube.com/watch?v=pgIbAdlgUoM&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=13)
+14. [ZAP Agile Methodology and CI](https://www.youtube.com/watch?v=HcF8_0lNCBA&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=14)
+15. [ZAPTEST 1Script Technology](https://www.youtube.com/watch?v=EyHxrC3TYF8&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=15)
+16. [ZAPTEST & CA DevTest Integration](https://www.youtube.com/watch?v=Z8xB16BxtSE&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=16)
+17. [Salesforce automation with ZAPTEST](https://www.youtube.com/watch?v=viJRYN_5hvc&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=17)
+18. [ZAPTEST - Cross Platform Test Automation: Windows and Mac](https://www.youtube.com/watch?v=DQAbleWtUls&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=18)
+19. [ZAPTEST - Javascript Support](https://www.youtube.com/watch?v=BYnTDxcL6Wg&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=19)
+20. [ZAPTEST: Jenkins Integration](https://www.youtube.com/watch?v=Eb6aoa_u8-0&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=20)
+21. [ZAPTEST with BrowserStack](https://www.youtube.com/watch?v=UQu8wC8fMCU&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=21)
+22. [ZAP Recorder - Generate Test Automation from Videos](https://www.youtube.com/watch?v=p-6X5kd2ITs&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=22)
+23. [ZAPTEST - M-RUN Overview](https://www.youtube.com/watch?v=th0EhUAYrw0&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=23)
+24. [ZAPTEST PDF Test Automation](https://www.youtube.com/watch?v=MQaz1Ieh4-E&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=24)
+25. [ZAPTEST - Agile Mockup Demo SL](https://www.youtube.com/watch?v=zJnaNVSnF3Q&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=25)
+26. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=26)
+27. [ZAPTEST - Use Case Automation](https://www.youtube.com/watch?v=oNJU6V911zA&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=27)
+28. [ZAPTEST API Testing Promo](https://www.youtube.com/watch?v=kjEZrQ6W5qc&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=28)
+29. [ZAPTEST - The Game Changer](https://www.youtube.com/watch?v=yXDRAVHQndo&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=29)
+30. [ZAPTEST - Test Automation Approaches](https://www.youtube.com/watch?v=yzaau2AzKj4&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=30)
+31. [ZAPTEST - LOAD Module Promo](https://www.youtube.com/watch?v=pTHIl4SM6zo&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=31)
+
 ## You Tube Collection of Public Video Series - 43 Videos
 [Public Video Series](https://www.youtube.com/watch?v=th0EhUAYrw0&list=PLYieqQNFjoYsobyjUCyycDjBXnFaW1ayY)
 
@@ -213,8 +247,6 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 9. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
 
 10. [ZAPTEST Tutorial - Configuring Mobile Devices](https://www.youtube.com/watch?v=meLjzeTrbc0&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=10)
-
-
 
 
 # Terminologies:
