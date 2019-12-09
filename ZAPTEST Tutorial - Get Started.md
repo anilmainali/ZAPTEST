@@ -334,6 +334,80 @@ Now how to get started with this fantastic Tool.
 6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
 7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
 8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
+*DOC Tutorial*
+
+This DOC feature which automatically generates test documentation out of test scripts.
+
+to use the DOC component just click ob the DOC component  on the left of the tool bar.
+
+the test documentation consists from steps 
+
+
+where each steps can have a name a description and expected results.
+
+this is a common format for test documentation. 
+
+at the top is a tool bar for text formatting with it we can apply different styles 
+
+font settings and alignments to the steps text. 
+
+use the buttons on the left to add or remove or delete steps.for example we can
+add a step above the first, move it forward then remove it.
+
+to remove all steps use the clear documentation command in the menu.
+
+
+the main advantage of the doc component is the automatic conversion of the test 
+
+scripts to test documentation.
+
+
+to begin make sure you have test script opened in the one script component so we 
+can generate test documentation for it.
+
+then click on the generate from script button on the toolbar and ZAP TEST will automatically create documentation steps.
+
+each line of the script is converted to plain english text.
+
+we can now easily edit the content of each documentation step.
+
+Future more if we change the script we can regenerate documentation and aptest will insert new items in appropriate positions 
+
+for example, lets add a new line to our script and then open the doc component and add some 
+some text data to the first step 
+
+now when we click on generate from script button one more time.
+
+zap test will ask us about each modification and insert the new step to the documentation.
+
+when done editing we can export the documentation to HTML or RTF file formats or 
+
+to the integrated test management tools HP ALM or CA Agile central.
+
+Lets export this  documentation to HTML formatted file.
+
+
+Click on export to HTML button and select the output path 
+
+open the exported file. The Html file contains formatted table with the test documentation 
+FTF documents will also contain the table and text files .
+
+Next lets export to CA agile central and HP ALM servers
+
+Click export to HP ALM button and save the new documentation as a new test case under the 
+the HP ALM Project.
+
+we can see that ZAP test exported all steps and also kept textiles 
+
+lets check how CA Agile central works?
+
+click export to CA A gile central button and save as new test case document. 
+
+on ca agile central we will get all of the documentation steps as expected.
+
+
+
+
 9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
 10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
 
