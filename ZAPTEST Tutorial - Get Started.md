@@ -321,3 +321,107 @@ There are 2 main sections.
 2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
 
 Now how to get started with this fantastic Tool.
+
+
+# Step by Step Tutorials:
+## UI Script-Less Tutorials
+
+1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
+2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
+3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
+4. [Lists and Tables](https://www.zaptest.com/tutorial/lists-and-tables-script-less)
+5. [Image and Area Objects](https://www.zaptest.com/tutorial/image-and-area-objects)
+6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
+7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
+8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
+9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
+10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
+
+*Recoder Tutorial*
+
+SME can record the script scenario and transferred the material to automation specialist who will easily process these recorded scenario and create an automated script.
+
+engineers can execute this script on real application.comparing to the creating of test automation script by using textual text documentation or manual test cases.
+
+A recorded scenario can show the entire scenario logic for future automated script.
+
+Steps to create a script with ZAPTEST Recorder:
+
+1. Click on the scenario Tab.
+2. ZAPTEST automatically opens the recorder tab. 
+3. here you will see a few buttons. 
+the main button is the recorder screen which will start recording the recording process. 
+4. On the right is recorder settings. we can set up a few things here.
+the first property is 
+
+Frame Rate:This is the amount of frame per second which zaptest test captures from the screen. Default is set to 3. we recommend you us 3 frames per second. if the application is very dynamic you should increase this parameter. 
+
+Audio Source:List os all audio source. here you can list all your audio device. or even disable sound recording.
+
+
+
+      - Always on top:
+      - Minimize on record:
+
+sets the behavior of tool bar.
+
+Map to Window button: it maps all recording views in application to one single application.this way aptest will generate only single application object.this will be very useful when we have a lot of windows in our tested application.
+
+Start Recording:
+
+Subject - Matter Expert Records Video Scenario
+1. Click on the record button
+2. ZAPTEST will show the tool bar and will start recording.
+3. using this tool bar we can capture the current screen by clicking on the first button and ZAPTEST will create a special view for that.
+
+the second one is the stop recording button which stops the recording process.
+
+4. recording the simple login scenario from the ZAPTEST website portal
+ENTER user name and password and click on login button.
+5. click on the stop button and ZAPTEST will stop the recoding and aptest will switch the recorder in scenario tab into a player mode.
+
+TEST AUTOMATION SPECIALIST CREATE SCRIPT BASED ON RECORDED VIDEO SCENARIO
+
+using the recorded video scenario.
+
+the test automation specialist can review the test procedures and listen to the narration inorder to understand precisely how to automate .
+
+lets review the main user interface.
+
+there are 2 panels- the top panel is the views panel.each  views app test converts to a repository object.
+
+our goal is to collect all necessary views that we are going to use in our script.
+
+we can also remove unused views from this list.
+
+The second panel is at the bottom. this is a player where we can replay recored scenario and create a view from any recorded frame.
+
+the player tool bar has the following buttons.
+
+Main button: play and pause button.this button starts and stop playing the recorded scenario.
+
+Slider: we also have a special slider which we can use for setting the scenario position.
+
+Next and Previous frame buttons: moves the player to next or previous frame allowing us to set the frame exactly we need it.
+
+when we get the right frame we can use the create new button for adding new views to to our view list.
+
+Lets create a new view for the main portal page using camera icon.
+
+are you sure you want to create a new view? dialog box pops up.
+
+Click on Yes.
+
+now we have two views which we will later convert to our repository.
+
+Full screen Mode: the last button is the full screen mode. This mode can helps us to see the small recoded details.
+
+After we are done with creating views we will create on the generate button.
+
+ZAPTETS will generate repository objects from the scenario views.
+
+Now its time to create our automated script.
+
+Whole process of creating the script from the recorded video.—> next.
+ 
+
