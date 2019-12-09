@@ -4,7 +4,6 @@
 
 - [Official site for ZAPTEST](https://www.zaptest.com/)
 - [About ZAPTEST](https://www.zaptest.com/about)
-- [Company Blog](https://www.zaptest.com/blog)
 
 # Social Media
 
@@ -12,152 +11,33 @@
 - [LinkedIn](https://www.linkedin.com/company/zaptechnologies-com/about/)
 - [Twitter](https://twitter.com/ZAPtechnologies)
 
-# For Upcoming webinars check out below link.
+# Resources from ZAPTEST official website.
 
-- [Webinars](https://www.zaptest.com/webinars/upcoming)
+1. [ZAPTEST Beginner Tutorial](https://www.zaptest.com/tutorial)
+2. [How-To/Documentation](https://www.zaptest.com/user-zone/product-training)
+3. [Best Practices for ZAPTEST](https://www.zaptest.com/forum/zaptest-best-practices)
+4. [Ask Expert](https://www.zaptest.com/forum/general) - you need to login to access this section.
 
+You can read the blog and signup for upcoming webinars from the below link.
 
-# Creating a Free Edition Account
-
-To create an Account we need to install ZAPTEST.
-
-There are two ways to install it. 
-1. Using a Web Installer
-2. Offline Insatller - with take more time.
-
-## Using a Web Installer
-
-Click on the Download button from the home page/Free Edition link.
-
-When Installation is complete, Click on Launch ZAPTEST.
-
-Then on ZAPTEST Free Edition button.
-
-Fill in the Free Sign Up form and click on Get Started Button.
-
-Check your email for Activation Link.Click on Confirm your Email link and your Account will be activated.
-
-Login to ZAPTEST
-
-Now you are ready to automating.
-
-This account is also useful in getting ZAPTEST Documentation and Forum.
+- [Company Blog Page](https://www.zaptest.com/blog)
+- [Upcoming webinars](https://www.zaptest.com/webinars/upcoming)
 
 
-# Opening ZAPTEST
+# Resources from ZAPTEST You Tube Official Channel.
 
-On the main portal LogIn.
-
-it will take you to forum.you can also go to forum using User Zone menu.
-
-There are 2 main sections.
-
-1. Best Practices- best practices for using ZAPTEST
-2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
-
-Now how to get started with this fantastic Tool.
-
-# Getting Started
-
-## ZAPTEST Beginner Tutorial
-
-[Start with this series Lessons- Beginner Tutorial](https://www.zaptest.com/tutorial)
-
-This has been catogarized in 5 different below topics.
-
-1. UI Scripted
-2. UI Script-Less
-3. API Scripted
-4. API Script-Less
-5. LOAD
-
-Since I am not comfortable with coding and was always hesitant to learn about automation, I had an assumption that we need to be a master in coding to start my career in automation.
-
-Finally, ZAPTEST proved it wrong, and they have introduced a tool for everyone. Anybody can do automation provided you have coding experience or not. For the coders, they have UI Scripted, and for non-coders, they have UI Script-Less.
-
-Btw- you need to know JavaScript and for coders.
-
-Now, let us start learning the ZAPTEST Tool by using the UI Script-Less approach. Let us follow the above tutorials.
-
-
-- [Blog](https://www.zaptest.com/blog)
-
-- [Documentation](https://www.zaptest.com/user-zone/product-training)
-
-## UI Script-Less Tutorials
-
-1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
-2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
-3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
-4. [Lists and Tables](https://www.zaptest.com/tutorial/lists-and-tables-script-less)
-5. [Image and Area Objects](https://www.zaptest.com/tutorial/image-and-area-objects)
-6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
-7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
-8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
-9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
-10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
-
-
-Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptest.com/)
-
-# Tutorials
-
-1. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g)
-2. [Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
-3. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI)
-4. [Documentation](https://www.zaptest.com/user-zone/product-training)
-
-## Product Training Videos
-
-[Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
-
-## Media Vidios Collections:
-
-[Access to Media Videos](https://www.zaptest.com/product-media)
-
-
-## Collection of Tutorials on DOC
-[Doc Tutorial](https://www.zaptest.com/tutorial/doc)
-[ZAPTEST Tutorial - DOC Feature](https://www.youtube.com/watch?v=7hVfZUPJIA8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=7)
-
-## Collection of Tutorials on Recorder Tutorial
-[Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
-[ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
-
-## Collection of Tutorials on Load Testing
-
-1. [Building First Load Test](https://www.zaptest.com/tutorial/building-first-load-test)
-2. [ZAPTEST - LOAD Module Promo](https://www.youtube.com/watch?v=pTHIl4SM6zo)
-
-
-## Collection of Tutorials on GUI Map
-
-1. [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
-2. [GUI Map Controls Overview](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-controls-overview)
-3. [GUI Map Debug Mode](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-debug-mode)
-4. [GUI Map Object Highlighting](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-object-highlighting-how-to)
-5. [GUI Map Recalculate Position of OCR Objects](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-recalculate-position-of-ocr-objects)
-6. [GUI Map Options](https://www.zaptest.com/user-zone/product-training/zaptest/options/gui-map-options)
-
-# Collection of Tutorials on Mobile Configuration
-
-1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
-2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
-
-# All You Tube Vidios <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
-
-# You Tube Play List
+## You Tube Play List
 
 [You Tube Play List](https://www.youtube.com/channel/UC1620TseFttkFo0vSZlB8yA/playlists)
 
-## Playlist Catogaries
+### Playlist Catogaries
 
 1. Media - 31 Videos
 2. Public - 43 Videos
 3. Live/Workshop - 21 Videos
 4. Tutorial - 10 Videos
 
-## You Tube Collection of Media Series - 31 Videos
+## 1.You Tube Collection of Media Series - 31 Videos
 [Media Series](https://www.youtube.com/watch?v=27Z9OEba9TI&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy)
 
 ### Watch the above Media Series by your preferred Topic.
@@ -194,7 +74,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 30. [ZAPTEST - Test Automation Approaches](https://www.youtube.com/watch?v=yzaau2AzKj4&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=30)
 31. [ZAPTEST - LOAD Module Promo](https://www.youtube.com/watch?v=pTHIl4SM6zo&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=31)
 
-## You Tube Collection of Public Video Series - 43 Videos
+## 2.You Tube Collection of Public Video Series - 43 Videos
 [Public Video Series](https://www.youtube.com/watch?v=th0EhUAYrw0&list=PLYieqQNFjoYsobyjUCyycDjBXnFaW1ayY)
 
 ### Watch the above Public Video Series by your preferred Topic. 
@@ -243,7 +123,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 42. [ZAPTEST - Enterprise Solution](https://www.youtube.com/watch?v=8R1iYrwrc0M&list=PLYieqQNFjoYsobyjUCyycDjBXnFaW1ayY&index=42)
 43. [ZAPTEST - LOAD Module Promo](https://www.youtube.com/watch?v=pTHIl4SM6zo&list=PLYieqQNFjoYsobyjUCyycDjBXnFaW1ayY&index=43)
 
-## You Tube Collection of Workshop series - 21 Videos <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
+## 3.You Tube Collection of Workshop series - 21 Videos <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 [Workshop](https://www.youtube.com/playlist?list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH)
 
 ### Watch the above Workshop series by your preferred Topic. <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
@@ -269,7 +149,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 20. [ZAPTEST - 20 - Workshop - Data Driving](https://www.youtube.com/watch?v=Uvwilb0Igrk&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=20)
 21. [ZAPTEST - 21 - Workshop - Rich Logic](https://www.youtube.com/watch?v=9-e75yjCYfI&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=21)
 
-## You Tube Collections of Tutorials Series - 10 Videos
+## 4.You Tube Collections of Tutorials Series - 10 Videos
 [Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
 
 ### Watch the above tutorials by your preferences Topic <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
@@ -311,3 +191,122 @@ https://www.gartner.com/reviews/market/software-test-automation/vendor/zaptest/p
 ## Compare Selenium vs. ZAPTEST in Software Test Automation ...
 
 https://www.gartner.com/reviews/market/software-test-automation/compare/selenium-vs-zaptest
+
+
+## UI Script-Less Tutorials
+
+1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
+2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
+3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
+4. [Lists and Tables](https://www.zaptest.com/tutorial/lists-and-tables-script-less)
+5. [Image and Area Objects](https://www.zaptest.com/tutorial/image-and-area-objects)
+6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
+7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
+8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
+9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
+10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
+
+
+Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptest.com/)
+
+## ZAPTEST Beginner Tutorial
+
+[Start with this series Lessons- Beginner Tutorial](https://www.zaptest.com/tutorial)
+
+This has been catogarized in 5 different below topics.
+
+1. UI Scripted
+2. UI Script-Less
+3. API Scripted
+4. API Script-Less
+5. LOAD
+
+
+
+# Tutorials
+
+1. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g)
+2. [Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
+3. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI)
+4. [Documentation](https://www.zaptest.com/user-zone/product-training)
+
+## Product Training Videos
+
+[Access of all the list of Product Video](https://www.zaptest.com/user-zone/product-training)
+
+## Media Vidios Collections:
+
+[Access to Media Videos](https://www.zaptest.com/product-media)
+
+
+## Collection of Tutorials on DOC
+[Doc Tutorial](https://www.zaptest.com/tutorial/doc)
+[ZAPTEST Tutorial - DOC Feature](https://www.youtube.com/watch?v=7hVfZUPJIA8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=7)
+
+## Collection of Tutorials on Recorder Tutorial
+[Recorder Tutorial](https://www.zaptest.com/tutorial/recorder)
+[ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
+
+## Collection of Tutorials on Load Testing
+
+1. [Building First Load Test](https://www.zaptest.com/tutorial/building-first-load-test)
+2. [ZAPTEST - LOAD Module Promo](https://www.youtube.com/watch?v=pTHIl4SM6zo)
+
+
+## Collection of Tutorials on GUI Map
+
+1. [How to Scan Applications with GUI Map](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-scan-applications-with-gui-map)
+2. [GUI Map Controls Overview](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-controls-overview)
+3. [GUI Map Debug Mode](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-debug-mode)
+4. [GUI Map Object Highlighting](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-object-highlighting-how-to)
+5. [GUI Map Recalculate Position of OCR Objects](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/gui-map-recalculate-position-of-ocr-objects)
+6. [GUI Map Options](https://www.zaptest.com/user-zone/product-training/zaptest/options/gui-map-options)
+
+# Collection of Tutorials on Mobile Configuration
+
+1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
+2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
+
+# All You Tube Vidios <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
+
+
+# Getting Started
+# Creating a Free Edition Account
+
+To create an Account we need to install ZAPTEST.
+
+There are two ways to install it. 
+1. Using a Web Installer
+2. Offline Insatller - with take more time.
+
+## Using a Web Installer
+
+Click on the Download button from the home page/Free Edition link.
+
+When Installation is complete, Click on Launch ZAPTEST.
+
+Then on ZAPTEST Free Edition button.
+
+Fill in the Free Sign Up form and click on Get Started Button.
+
+Check your email for Activation Link.Click on Confirm your Email link and your Account will be activated.
+
+Login to ZAPTEST
+
+Now you are ready to automating.
+
+This account is also useful in getting ZAPTEST Documentation and Forum.
+
+
+# Opening ZAPTEST
+
+On the main portal LogIn.
+
+it will take you to forum.you can also go to forum using User Zone menu.
+
+There are 2 main sections.
+
+1. Best Practices- best practices for using ZAPTEST
+2. Ask Experts - This is for Community.Here you can ask any questions about ZAPTEST and report bugs.
+
+Now how to get started with this fantastic Tool.
