@@ -164,7 +164,7 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 
 1. [ZAPTEST - ZAPFARM Promo](https://www.youtube.com/watch?v=27Z9OEba9TI&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=1)
 2. [ZAPTEST UI + API Test Automation](https://www.youtube.com/watch?v=jVGC3XgwDbY&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=2)
-3. ZAPTEST - G-Mode Promo](https://www.youtube.com/watch?v=2jhy7SY1h4Q&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=3)
+3. [ZAPTEST - G-Mode Promo](https://www.youtube.com/watch?v=2jhy7SY1h4Q&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=3)
 4. [600% Productivity Increase](https://www.youtube.com/watch?v=o91DflCoels&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=4)
 5. [ZAPDOC - 1 Script / 1 Click](https://www.youtube.com/watch?v=E4r792vWWW0&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=5)
 6. [ZAPTEST - Workshop](https://www.youtube.com/watch?v=M3p0zo3CVKE&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy&index=6)
