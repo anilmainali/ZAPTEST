@@ -11,8 +11,8 @@
 - [LinkedIn](https://www.linkedin.com/company/zaptechnologies-com/about/)
 - [Twitter](https://twitter.com/ZAPtechnologies)
 
-# Online Test Automation Workshop
-This is an excellant Online Test Automation Workshop with ZAPTEST.
+# Online Test Automation Workshop - Must watch
+This is an excellant Online Test Automation Workshop with ZAPTEST.Most of them are covered in another *You Tube resource of Collection of Workshop series*
 
 - You can watch the Online Test Automation Workshop for free, however *you cannot complete the workshop exercises* with *Free Trail.* You need to sign up for *Enterprise Solution.*
 
