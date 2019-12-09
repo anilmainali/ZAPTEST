@@ -38,6 +38,9 @@ This has been catogarized in 5 different below topics.
 ## 1. UI Scripted: TODO
 
 ## 2. UI Script-Less Tutorials
+
+Learning the ZAPTEST Tool by using the UI Script-Less approach. Let us follow the below tutorials.
+
 1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
 2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
 3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
