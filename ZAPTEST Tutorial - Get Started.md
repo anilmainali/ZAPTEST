@@ -281,6 +281,21 @@ https://www.gartner.com/reviews/market/software-test-automation/compare/selenium
 1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
+# Collection of Tutorials on M-RUN
+
+M-RUN TUTORIAL
+
+https://www.zaptest.com/media-pages/m-run
+
+ZAPTEST - 12 - Workshop - M-RUN
+
+https://www.youtube.com/watch?v=D8VciWJmu6U
+
+ZAPTEST Tutorial - M-RUN Feature
+
+https://www.youtube.com/watch?v=1HbFFkVzs14
+
+
 # Getting Started
 # Creating a Free Edition Account
 
