@@ -23,8 +23,40 @@ You can read the blog and signup for upcoming webinars from the below link.
 - [Company Blog Page](https://www.zaptest.com/blog)
 - [Upcoming webinars](https://www.zaptest.com/webinars/upcoming)
 
+## ZAPTEST Beginner Tutorial
+
+[Start with this series Lessons- Beginner Tutorial](https://www.zaptest.com/tutorial)
+
+This has been catogarized in 5 different below topics.
+
+1. UI Scripted
+2. UI Script-Less
+3. API Scripted
+4. API Script-Less
+5. LOAD
+
+## 1. UI Scripted: TODO
+
+## 2. UI Script-Less Tutorials
+1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
+2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
+3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
+4. [Lists and Tables](https://www.zaptest.com/tutorial/lists-and-tables-script-less)
+5. [Image and Area Objects](https://www.zaptest.com/tutorial/image-and-area-objects)
+6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
+7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
+8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
+9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
+10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
+
+## 3. API Scripted -TODO
+## 4. API Script-Less-TODO
+## 5. LOAD -TODO
+
+Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptest.com/)
 
 # Resources from ZAPTEST You Tube Official Channel.
+## All ZAPTEST You Tube Vidios <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 
 ## You Tube Play List
 
@@ -193,36 +225,6 @@ https://www.gartner.com/reviews/market/software-test-automation/vendor/zaptest/p
 https://www.gartner.com/reviews/market/software-test-automation/compare/selenium-vs-zaptest
 
 
-## UI Script-Less Tutorials
-
-1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
-2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
-3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
-4. [Lists and Tables](https://www.zaptest.com/tutorial/lists-and-tables-script-less)
-5. [Image and Area Objects](https://www.zaptest.com/tutorial/image-and-area-objects)
-6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
-7. [iPhone and Android](https://www.zaptest.com/tutorial/iphone-and-android)
-8. [DOC Tutorial](https://www.zaptest.com/tutorial/doc)
-9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
-10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
-
-
-Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptest.com/)
-
-## ZAPTEST Beginner Tutorial
-
-[Start with this series Lessons- Beginner Tutorial](https://www.zaptest.com/tutorial)
-
-This has been catogarized in 5 different below topics.
-
-1. UI Scripted
-2. UI Script-Less
-3. API Scripted
-4. API Script-Less
-5. LOAD
-
-
-
 # Tutorials
 
 1. [ZAPTEST - Script-Less Introduction](https://www.youtube.com/watch?v=Y2hi7tvP55g)
@@ -266,9 +268,6 @@ This has been catogarized in 5 different below topics.
 
 1. [Multiruin - Mobile Application Configuration](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-advanced/multirun-mobile-application-configuration)
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
-
-# All You Tube Vidios <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
-
 
 # Getting Started
 # Creating a Free Edition Account
