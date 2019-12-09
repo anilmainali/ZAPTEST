@@ -150,31 +150,18 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 
 [You Tube Play List](https://www.youtube.com/channel/UC1620TseFttkFo0vSZlB8yA/playlists)
 
-## You Tube Tutorials Series - 10 Videos
-[Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
+## Playlist Catogaries
 
-### Watch the above tutorials by your preferences Topic <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
+1. Media - 31 Videos
+2. Public - 43 Videos
+3. Live/Workshop - 21 Videos
+4. Tutorial - 10 Videos
 
-1. [ZAPTEST Tutorial - Get Started](https://www.youtube.com/watch?v=WzlW4HrrZoY&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2&t=0s)
+## You Tube Collection of Media Series - 31 Videos
+[Media Series](https://www.youtube.com/watch?v=27Z9OEba9TI&list=PLYieqQNFjoYtCaymhZ8h0SZbK4qzebMVy)
 
-2. [ZAPTEST Tutorial - Building First Script](https://www.youtube.com/watch?v=vnzqvrqOU-c&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2)
-
-3. [ZAPTEST Tutorial - Mockups](https://www.youtube.com/watch?v=fMJ5DCZ1X68&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=3)
-
-4. [ZAPTEST Tutorial - Lists and Tables](https://www.youtube.com/watch?v=crBQQs9mC8A&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=4)
-
-5. [ZAPTEST Tutorial - Image and Area Objects](https://www.youtube.com/watch?v=GgtafJBGMU8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=5)
-
-6. [ZAPTEST Tutorial - Cross Platform](https://www.youtube.com/watch?v=SsmjoA8_PdM&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=6)
-
-7. [ZAPTEST Tutorial - DOC Feature](https://www.youtube.com/watch?v=7hVfZUPJIA8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=7)
-
-8. [ZAPTEST Tutorial - M-RUN Feature](https://www.youtube.com/watch?v=1HbFFkVzs14&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=8)
-
-9. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
-
-10. [ZAPTEST Tutorial - Configuring Mobile Devices](https://www.youtube.com/watch?v=meLjzeTrbc0&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=10)
-
+## You Tube Collection of Public Video Series - 43 Videos
+[Public Video Series](https://www.youtube.com/watch?v=th0EhUAYrw0&list=PLYieqQNFjoYsobyjUCyycDjBXnFaW1ayY)
 
 ## You Tube Collection of Workshop series - 21 Videos <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
 [Workshop](https://www.youtube.com/playlist?list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH)
@@ -201,6 +188,34 @@ Here is a ZAPTEST Demo site for you to practice : [Demo Site](http://demo.zaptes
 19. [ZAPTEST - 19 - Workshop - Event Driving](https://www.youtube.com/watch?v=7lvnsQ0cAH8&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=19)
 20. [ZAPTEST - 20 - Workshop - Data Driving](https://www.youtube.com/watch?v=Uvwilb0Igrk&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=20)
 21. [ZAPTEST - 21 - Workshop - Rich Logic](https://www.youtube.com/watch?v=9-e75yjCYfI&list=PLYieqQNFjoYs9sLqRWu1qFt5X7_jcXTAH&index=21)
+
+## You Tube Collections of Tutorials Series - 10 Videos
+[Tutorial](https://www.youtube.com/playlist?list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5)
+
+### Watch the above tutorials by your preferences Topic <img width="124" alt="YouTube" src="https://user-images.githubusercontent.com/10678180/70384872-d8471480-194b-11ea-83d3-e2972ae0a04c.png">
+
+1. [ZAPTEST Tutorial - Get Started](https://www.youtube.com/watch?v=WzlW4HrrZoY&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2&t=0s)
+
+2. [ZAPTEST Tutorial - Building First Script](https://www.youtube.com/watch?v=vnzqvrqOU-c&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=2)
+
+3. [ZAPTEST Tutorial - Mockups](https://www.youtube.com/watch?v=fMJ5DCZ1X68&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=3)
+
+4. [ZAPTEST Tutorial - Lists and Tables](https://www.youtube.com/watch?v=crBQQs9mC8A&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=4)
+
+5. [ZAPTEST Tutorial - Image and Area Objects](https://www.youtube.com/watch?v=GgtafJBGMU8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=5)
+
+6. [ZAPTEST Tutorial - Cross Platform](https://www.youtube.com/watch?v=SsmjoA8_PdM&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=6)
+
+7. [ZAPTEST Tutorial - DOC Feature](https://www.youtube.com/watch?v=7hVfZUPJIA8&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=7)
+
+8. [ZAPTEST Tutorial - M-RUN Feature](https://www.youtube.com/watch?v=1HbFFkVzs14&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=8)
+
+9. [ZAPTEST Tutorial - Recorder Feature](https://www.youtube.com/watch?v=-CzEPAGj-iI&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=9)
+
+10. [ZAPTEST Tutorial - Configuring Mobile Devices](https://www.youtube.com/watch?v=meLjzeTrbc0&list=PLYieqQNFjoYvTwJFUOWG4NT62rwCpi-E5&index=10)
+
+
+
 
 # Terminologies:
 
