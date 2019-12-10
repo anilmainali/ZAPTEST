@@ -508,6 +508,218 @@ on ca agile central we will get all of the documentation steps as expected.
 
 
 9. [M-RUN Tutorial](https://www.zaptest.com/tutorial/m-run)
+
+
+M-RUN allows us to run the scripts on multiple devices at the same time.
+
+when you run m run for the first time it will open the connected devices tab by default where we can see our local devices an iPhone and an android. 
+
+use the refresh button on the tool bar to update this list.
+
+
+if we click on the device button M RUN will establish a connection with the device.
+
+
+if the device supports remote app control MRUN will ask us which application we would like to run.
+
+
+if this application is a browser it will ask us for the URL .
+
+FOR EXAMPLE: Launch a chrome browser on an Android device and provide the following URL - www.zaptest.com
+
+click on the android device icon.
+
+aptest will show the device manager dialog where we can find the chrome browser. 
+
+double click on it 
+
+since it is a browser app device device manager will request a url for navigation . type- www.zaptest.com
+
+
+click ok. 
+
+MRUN will establish a connection with a device.
+
+
+once the crome browser opens the website and create a new tab.
+
+there are 2 views in the tab
+
+1.remote device and 
+2. the script.
+
+the script view will show the code steps which we are going to execute on this device.
+
+
+this is read only view and cannot be edited here.
+
+to edit we will use the one script module.
+
+the remote device view is like a zap viewer.
+
+
+it shows the current running application. 
+
+keep in mind that the keyboard and the mouse are disabled by default.
+
+to enable or disable keyboard interaction we will use the toolbar button. 
+
+after enabling key board and mouse we can remotely control the device.
+
+for example: add some text- scroll the page etc.
+
+
+but its best to keep the keyboard mouse control disabled to prevent from accidentally changing the test case behavior during run time.
+
+lets use the script from the previous lesson and try to run it on the android and the iOS devices.
+
+
+MRUN has one main difference from the one script execution the LAUNCH COMMAND IS IGNORED IN THE MRUN MODE AND INSTEAD WE WILL PREPARE THE ENVIRONMENT EACH TIME FOR EACH DEVICE. 
+
+Lets close the android connection and open the one script tab. 
+
+
+lets copy the URL for the device configuration and remove the second and third iteration.
+
+BECAUSE MRUN DOES NOT SUPPOST LAUNCH METHOD.
+
+now save the script
+BECAUSE MRUN ONLY WORKS WITH SAVED TEST CASES.
+
+Now lets update one small but very important option. its the GLOBAL DELAY. 
+
+MRUN usually works with remote machines or devices . this means that after each step we should wait a short amount of time to get the remote device view updated.
+
+
+lets click on the tOOLs menu and open OPTIONS 
+
+Select the runtime tab and set the delay to 5 milliseconds. this way we add a little buffer for each step. 
+
+now lets switch back to MRUN Tab and add add 2 connections 
+
+first for the chrome browser for the android device.
+
+click on the android device type chrome into the search field.
+
+
+double click the chrome browser and paste the URL.
+
+THE SECOND connection is for the zap browser on the iOS device. 
+
+click on the iOS device. 
+
+select the zap browser and paste the same URL 
+
+THASTS IT! Our devices are configured.
+
+IF YOU ARE WONDERING HOW TO SPARE YOURSELF FROM ALL THE CONFIGURATION S NEXT TIME, ITS REALLY EASY . WE CAN SAVE THE CURRENT CONFIGURATION. 
+JUST CLICK THE SAVE BUTTON ON THE TOOL BAR AND SELECT FILE DESTINATION. 
+
+Now we can close all connected tabs and use the open configuration button to load the saved configuration .
+
+thats it! zap test loaded the MRUN configuration 
+
+established connections with two devices and 
+also launched the apps with the URL opened.
+
+
+now we can run the script on M-RUN.
+——————————————————————————————————— 
+
+CLICK on the run button on the tool bar and ZAP TEST will execute the script on both devices.
+
+to monitor all steps at the same time, we can use the dash board 
+the dashboard will show all the connected devices and will highlight the step of the script with the corresponding color of the device tab
+
+see the name panel above each device view.
+
+
+the dashboard is very useful to monitor the execution process on all devices and computers.
+
+when the execution is complete, we can check the results by clicking the results button on the toolbar. 
+
+the results contain information about each executed step and are grouped by devices .
+
+if we click on a single device tab. instead of the dashboard we can find additional toolbar buttons.
+
+they are mobile settings, mobile variables.
+
+the buttons to reconnect to the device and a button to run the script only on this device. this is useful for debug purposes.
+
+ADDING A CONNECTION
+===================== 
+on the main tool bar we have a button for adding a new connection if we click on it MRUN will ask us to provide the connection name and a VMC Server host and a password.
+
+we can use this dialog to connect to remote computers.
+
+now we are going to learn HOW TO CONFIGURE a VNC SERVER FOR WINDOWS.
+     
+HOW TO CONFIGURE a VNC SERVER FOR WINDOWS,MAC AND LINUX - 07:07
+=============================================================== 
+
+WINDOWS:
+======== 
+1.Search for TightVNC in google.
+2. Click the first link and go to Tightvnc.com
+3. Go to downloads page.
+4. Click on "Installer for Windows (64-bit)" link.
+5. Follow the prompt and Click Next, Next, Next.
+6. At the end of the installation process set the VNC Password. we will need this password later for ZAPTEST.
+7. under administrative password - select Do Not Change.
+8. Click on OK.
+9. Click on Finish.
+10. Check the network and VNC settings and write down the IP Address.
+and the port information for this machine. 
+
+Now lets get back to our ZAPTEST Machine.
+
+1. Go to create Manual Connection.
+Enter the Configuration Name
+2. Host
+3. Password
+4. click on Add
+
+APTEST has special agent for windows. which could improve the communication between the remote machine and the ZAPTEST application.
+its called ZAP VNC AGENT.
+
+We can download the latest version from our portal. this agent allows us not only to connect to the remote machine but also to launch browsers or custom applications.
+
+with it we can pre configure connections just like we did with mobile devices.
+ 
+
+1. under userzone/Downloads click on ZAP Agent for Windows and complete the download.
+
+Lets launch the app agent.
+
+launch the app agent:
+===================== 
+Requires only 2 ports
+
+Incoming Ports which we will use in MRUN to connect to this machine and VNC port which is the incoming port of our installed VNC server.
+
+There is no need to provide any additional authorization information 
+because zap agent works like a proxy between the VNC server and zaptest application. however we should enable allow loopback connections in the VNC Server.
+
+Now we can add a new connection to our virtual machine via the zap agent.
+
+add a new connection to our virtual machine
+============================================ 
+add a new connection to our virtual machine via the zap agent.
+
+we will just set a different port number as defined in the zap agent.
+
+now we can see the same dialog as with a mobile device. 
+
+lets select the chrome browser. 
+
+provide the URL from our test script.
+
+our window machine is ready for test execution.—> Continue from 10:00 
+https://www.zaptest.com/tutorial/m-run
+
+
+
+
 10. [Recoder Tutorial](https://www.zaptest.com/tutorial/recorder)
 
 *Recoder Tutorial*
