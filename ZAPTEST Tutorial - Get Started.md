@@ -344,6 +344,90 @@ Now how to get started with this fantastic Tool.
 1. [Getting Started](https://www.zaptest.com/tutorial/getting-started)
 2. [Building First Script](https://www.zaptest.com/tutorial/login-script-less)
 3. [Using Mockups](https://www.zaptest.com/tutorial/mockup-script-less)
+*Mockups Tutorials*
+Building a Simple Test based on a Mockup.
+
+Download a mockup from a aptest demo page.
+
+open the mockup page in the image viewer.
+
+Add this mockup to a object repository.
+
+scan the Scan Gui button to scan the application.
+
+click on the scan viewer icon with the mockup image open.
+
+define the new application and a View.
+
+remove all elements except labels text boxes and the registration button.
+
+as you already know we should use relative objects for the text boxes.
+
+if auto anchoring is enabled during the scan zap test will define relative objects automatically.
+
+otherwise you will need to make the textbooks relative to their labels manually.
+
+to do this click the select relative object button located in the object properties box for the first name text box object then click on the first name label 
+
+now we have to do the same for the other three objects 
+
+last name
+username and 
+password text box
+
+next we will change the name for the text boxes by typing a new value in each objects name property 
+
+now we are ready to add test steps.
+
+like we did before we should first launch the browser application using the launch method.
+
+now we will check if the page is loaded by exist method. 
+
+then we will fill in the registration form using the type method. 
+
+we will define the data table parameters for each input.
+
+this gives us the ability to make multiple iterations in the future.
+
+
+just for our convenience we will add the data table parameters for the browser name
+
+it will give us the ability to do cross browser testing.
+
+now we have added four steps into our script that will fill in the registration form.
+
+the final step is to click on the registration button.
+
+but HOW DO WE CHECK THAT THE USER IS INDEED REGISTERED since we have only 1 mockup view.
+
+for now we can simply add a new object and set the text which would appear when the registration is successful. 
+
+in addition we can set the text parameters for the objects within the script 
+
+we have a special method set property . it means that we can dynamically set new value of the text property. 
+
+we can also use a value from a variable or a data table parameter.
+
+now we should only apply the exists method to this object at the end of the registration process. 
+
+we should also close the application at the end of the test case.
+
+in addition we will include a custom reporting step which will report a failure to the test result.
+
+if for any reason if the registration page is not loaded
+
+to do this we will drag the application object to the false path of our if block and choose the custom report step. 
+
+for the step argument we will type false to send the failed status.
+
+ type step title step details and type try in the last argument to save the application screenshot 
+
+now we will save our test case 
+
+our test is ready now lets run it
+
+as you can see zap test has performed all of the operations against the real website and it even verifies the registration status.
+
 4. [Lists and Tables](https://www.zaptest.com/tutorial/lists-and-tables-script-less)
 5. [Image and Area Objects](https://www.zaptest.com/tutorial/image-and-area-objects)
 6. [Configuring Mobile Devices ](https://www.zaptest.com/tutorial/configuring-mobile-devices)
