@@ -282,18 +282,13 @@ https://www.gartner.com/reviews/market/software-test-automation/compare/selenium
 2. [Method LaunchMobileWeb](https://www.zaptest.com/user-zone/product-training/zaptest/methods/method-launchmobileweb)
 
 # Collection of Tutorials on M-RUN
-
-M-RUN TUTORIAL
-
-https://www.zaptest.com/media-pages/m-run
-
-ZAPTEST - 12 - Workshop - M-RUN
-
-https://www.youtube.com/watch?v=D8VciWJmu6U
-
-ZAPTEST Tutorial - M-RUN Feature
-
-https://www.youtube.com/watch?v=1HbFFkVzs14
+1. [Connect Devices](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-basic-usage/multirun-connect-devices)
+2. [Multiview](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-basic-usage/multirun-multiview)
+3. [Script and Step Views](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-basic-usage/multirun-script-step-views)
+4. [Run Scripts](https://www.zaptest.com/user-zone/product-training/zaptest/multirun-zaptest16/multirun-basic-usage/multirun-run-scripts)
+5. [M-RUN TUTORIAL](https://www.zaptest.com/media-pages/m-run)
+6. [ZAPTEST - 12 - Workshop - M-RUN](https://www.youtube.com/watch?v=D8VciWJmu6U)
+7. [ZAPTEST Tutorial - M-RUN Feature](https://www.youtube.com/watch?v=1HbFFkVzs14)
 
 
 # Getting Started
