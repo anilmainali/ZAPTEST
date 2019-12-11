@@ -289,6 +289,17 @@ https://www.gartner.com/reviews/market/software-test-automation/compare/selenium
 5. [M-RUN TUTORIAL](https://www.zaptest.com/media-pages/m-run)
 6. [ZAPTEST - 12 - Workshop - M-RUN](https://www.youtube.com/watch?v=D8VciWJmu6U)
 7. [ZAPTEST Tutorial - M-RUN Feature](https://www.youtube.com/watch?v=1HbFFkVzs14)
+8. [M-RUN Debug Mode](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/m-run-debug-mode)
+
+# Collection of Tutorials on ZAPFARM
+1. [ZAPFARM Private Cloud Overview](https://www.zaptest.com/user-zone/product-training/zapfarm/zapfarm-private-cloud-overview)
+2. [How to install ZAPFARM](https://www.zaptest.com/user-zone/product-training/zapfarm/how-to-install-zapfarm)
+3. [ZAPFARM main UI Overview](https://www.zaptest.com/user-zone/product-training/zapfarm/zapfarm-main-ui-overview)
+4. [ZAPFARM user managment](https://www.zaptest.com/user-zone/product-training/zapfarm/zapfarm-user-managment)
+5. [ZAPFARM groups](https://www.zaptest.com/user-zone/product-training/zapfarm/zapfarm-groups)
+
+
+
 
 
 # Getting Started
