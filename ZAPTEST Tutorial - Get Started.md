@@ -810,3 +810,34 @@ Now its time to create our automated script.
 Whole process of creating the script from the recorded video.—> next.
  
 
+# Important Forum Questions
+## Integration With Jenkins
+1. [Integration with Jenkins](https://www.zaptest.com/forum/general/3794-integration-with-jenkins)
+2. [How to integrate ZAPTEST with jenkins (CI/CD)](https://www.zaptest.com/forum/general/3945-ho-to-integrate-zaptest-with-jenkins-ci-cd)
+
+## Work Space/Executing multiple script once from ZAPTEST
+1. [Multiple Scripts for a ZAPTEST](https://www.zaptest.com/forum/general/4168-multiple-scripts-for-a-zaptest)
+2. [Using several scripts in a file](https://www.zaptest.com/forum/general/4174-using-several-scripts-in-a-file)
+3. [Can we run Multiple script files in a sequence](https://www.zaptest.com/forum/general/4160-can-we-run-multiple-script-files-in-a-sequence)
+4. [Launching multiple tests one by one](https://www.zaptest.com/forum/general/4067-launching-multiple-tests-one-by-one)
+5. [How to create suite and run](https://www.zaptest.com/forum/general/3964-how-to-create-suite-and-run)
+6. [how i can add new project](https://www.zaptest.com/forum/general/3822-how-i-can-add-new-project)
+7. [how to manage multiple test scripts](https://www.zaptest.com/forum/general/3806-how-to-manage-multiple-test-scripts)
+8. [How to combine 2-3 views and execute a test](https://www.zaptest.com/forum/general/4090-how-to-combine-2-3-views-and-execute-a-test)
+
+## ZAPTEST Crashing
+1. [Zaptest Crashing when test execution is terminated](https://www.zaptest.com/forum/general/4138-zaptest-crashing-when-test-execution-is-terminated)
+
+## Download 
+1. [How to validate certain actions](https://www.zaptest.com/forum/general/4182-how-to-validate-certain-actions#5424)
+2. [Script runs successfully only once](https://www.zaptest.com/forum/general/3869-script-runs-successfully-only-once)
+
+## Data Table 
+1. [Import CSV file to datatable](https://www.zaptest.com/forum/general/4169-import-csv-file-to-datatable)
+
+## Connecting to different devices
+1. [Connecting to Windows Devices](https://www.zaptest.com/forum/general/3780-connecting-to-windows-devices)
+
+## Scripting Questions
+1. [How to reuse the scripts](https://www.zaptest.com/forum/general/3961-how-to-reuse-the-scripts)
+
