@@ -817,6 +817,11 @@ Whole process of creating the script from the recorded video.—> next.
  
 
 # Important Forum Questions
+
+## Setup VirtualBox on Mac for ZAPTEST
+
+1. [How to setup VirtualBox on Mac for ZAPTEST](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-setup-virtualbox-on-mac-for-zaptest)
+
 ## Integration With Jenkins
 1. [Integration with Jenkins](https://www.zaptest.com/forum/general/3794-integration-with-jenkins)
 2. [How to integrate ZAPTEST with jenkins (CI/CD)](https://www.zaptest.com/forum/general/3945-ho-to-integrate-zaptest-with-jenkins-ci-cd)
