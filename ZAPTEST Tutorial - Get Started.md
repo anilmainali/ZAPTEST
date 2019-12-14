@@ -852,3 +852,6 @@ Whole process of creating the script from the recorded video.—> next.
 ## Scripting Questions
 1. [How to reuse the scripts](https://www.zaptest.com/forum/general/3961-how-to-reuse-the-scripts)
 
+# How To
+## How to connect iOS device
+1. [How to connect iOS device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-connect-ios-device)
