@@ -857,12 +857,22 @@ Whole process of creating the script from the recorded video.—> next.
 1. [How to connect iOS device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-connect-ios-device)
 
 ## How to install iOS application
-[How to install iOS application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-install-ios-application)
+2. [How to install iOS application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-install-ios-application)
 
 ## How to remove installed application
-[How to remove installed application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-remove-installed-application)
+3. [How to remove installed application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-remove-installed-application)
 
 ## How to restart device
-[How to restart device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-restart-the-device)
+4. [How to restart device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-restart-the-device)
+## How to connect Android device
+5. [How to connect Android device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-connect-android-device)
+## How to install Android application
+6. [How to install Android application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-install-android-application)
+## How to install Android drivers
+7. [How to install Android drivers](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-install-android-drivers)
+
+## How to get device logs
+8. [How to get device logs](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-get-the-device-logs)
+
 
 
