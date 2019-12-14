@@ -855,3 +855,14 @@ Whole process of creating the script from the recorded video.—> next.
 # How To
 ## How to connect iOS device
 1. [How to connect iOS device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-connect-ios-device)
+
+## How to install iOS application
+[How to install iOS application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-install-ios-application)
+
+## How to remove installed application
+[How to remove installed application](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-remove-installed-application)
+
+## How to restart device
+[How to restart device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-restart-the-device)
+
+
