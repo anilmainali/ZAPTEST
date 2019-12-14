@@ -852,6 +852,15 @@ Whole process of creating the script from the recorded video.—> next.
 ## Scripting Questions
 1. [How to reuse the scripts](https://www.zaptest.com/forum/general/3961-how-to-reuse-the-scripts)
 
+
+
+## how to connect iOS device?
+To work with iOS devices you should have developer certificates (for full automation), please refer to those video documentations how to use iOS devices and apps:
+
+https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-connect-ios-device
+
+https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-install-ios-application
+
 # How To
 ## How to connect iOS device
 1. [How to connect iOS device](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-connect-ios-device)
