@@ -826,6 +826,9 @@ Whole process of creating the script from the recorded video.—> next.
 1. [Integration with Jenkins](https://www.zaptest.com/forum/general/3794-integration-with-jenkins)
 2. [How to integrate ZAPTEST with jenkins (CI/CD)](https://www.zaptest.com/forum/general/3945-ho-to-integrate-zaptest-with-jenkins-ci-cd)
 
+# JIRA Integration
+1. [JIRA Integration](https://www.zaptest.com/user-zone/product-training/zaptest/integrations/jira-integration)
+
 ## Work Space/Executing multiple script once from ZAPTEST
 1. [Multiple Scripts for a ZAPTEST](https://www.zaptest.com/forum/general/4168-multiple-scripts-for-a-zaptest)
 2. [Using several scripts in a file](https://www.zaptest.com/forum/general/4174-using-several-scripts-in-a-file)
