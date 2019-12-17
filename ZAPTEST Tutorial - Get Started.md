@@ -818,6 +818,16 @@ Whole process of creating the script from the recorded video.—> next.
 
 # Important Forum Questions
 
+## Excel or csv file upload
+
+[Excel or csv file upload](https://www.zaptest.com/forum/general/3950-excel-or-csv-file-upload)
+
+To Export some data from external file to use during test script execution please refer to videos below
+
+[](www.zaptest.com/user-zone/product-traini...d-datatableimportcsv)
+[](www.zaptest.com/user-zone/product-traini...datatableimportexcel)
+
+
 ## Close method doesn't work after IF statement
 [Close method doesn't work after IF statement](https://www.zaptest.com/forum/general/4075-close-method-doesn-t-work-after-if-statement)
 
