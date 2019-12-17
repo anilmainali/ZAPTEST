@@ -818,6 +818,10 @@ Whole process of creating the script from the recorded video.—> next.
 
 # Important Forum Questions
 
+## Close method doesn't work after IF statement
+[Close method doesn't work after IF statement](https://www.zaptest.com/forum/general/4075-close-method-doesn-t-work-after-if-statement)
+
+
 ## Setup VirtualBox on Mac for ZAPTEST
 
 1. [How to setup VirtualBox on Mac for ZAPTEST](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/how-to-setup-virtualbox-on-mac-for-zaptest)
