@@ -818,6 +818,9 @@ Whole process of creating the script from the recorded video.—> next.
 
 # Important Forum Questions
 
+## Connecting to Windows Devices
+[Connecting to Windows Devices](https://www.zaptest.com/forum/general/3780-connecting-to-windows-devices)
+
 ## Excel or csv file upload
 
 [Excel or csv file upload](https://www.zaptest.com/forum/general/3950-excel-or-csv-file-upload)
