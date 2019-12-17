@@ -824,8 +824,9 @@ Whole process of creating the script from the recorded video.—> next.
 
 To Export some data from external file to use during test script execution please refer to videos below
 
-(www.zaptest.com/user-zone/product-traini...d-datatableimportcsv)
-(www.zaptest.com/user-zone/product-traini...datatableimportexcel)
+www.zaptest.com/user-zone/product-traini...d-datatableimportcsv
+
+www.zaptest.com/user-zone/product-traini...datatableimportexcel
 
 
 ## Close method doesn't work after IF statement
