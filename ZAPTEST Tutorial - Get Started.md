@@ -901,4 +901,6 @@ www.zaptest.com/user-zone/product-traini...datatableimportexcel
 [Generating PDF and HTML Reports](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/generating-pdf-and-html-reports)
 
 
+# Method Datatable.ImportCSV
+[Method Datatable.ImportCSV](https://www.zaptest.com/user-zone/product-training/zaptest/datatable-methods/method-datatableimportcsv)
 
