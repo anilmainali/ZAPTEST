@@ -897,5 +897,8 @@ www.zaptest.com/user-zone/product-traini...datatableimportexcel
 ## How to get device logs
 8. [How to get device logs](https://www.zaptest.com/user-zone/product-training/zaptest/remote-control/ios-android/how-to-get-the-device-logs)
 
+## Generating PDF and HTML Reports
+[Generating PDF and HTML Reports](https://www.zaptest.com/user-zone/product-training/zaptest/getting-started/generating-pdf-and-html-reports)
+
 
 
